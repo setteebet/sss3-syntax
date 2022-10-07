@@ -1,0 +1,18 @@
+{
+  "name": "sss3-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "สลากกินแบ่งรัฐบาลออนไลน์สด✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"สลากกินแบ่งรัฐบาลออนไลน์สด",
+"เว็บแทงหวย24ชั่วโมง",
+"lottovip เข้าสู่ระบบไม่ได้",
+"แทงหวยลาว",
+"lottoviponline"
+],
+  "repository": "https://github.com/setteebet/sss3-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
